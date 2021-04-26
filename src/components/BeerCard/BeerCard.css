@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  height: 220px;
+  padding-top: 20px;
+ margin-bottom: 10px;
+}
+.beerName{
+ 
+    font-family: Bangers;
+    letter-spacing: 2px;
+    width: 90%;
+    margin: auto;
+    font-size: 19px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    min-height: 75px;
+    font-weight: 200;
+}
+
+.abv{
+  
+    font-size: 16px;
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 3px 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+    letter-spacing: .3px;
+ }
+ .tagLine{
+    font-size: 18px;
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 10px ;
+}
+ .ibu{
+    font-size: 12px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 3px 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+    letter-spacing: .3px;
+ } 
+ 

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.btnImg{
+   max-height: 50px;
+   background-color: rgb(228, 224, 32);
+   margin-right:70px;
+}
+.imgKey{
+   max-height: 50px;
+}
+.forminput{
+  margin-right:100px ;
+   position:absolute;
+   
+   background-color: black;
+   z-index: 1;
+}

@@ -1,0 +1,22 @@
+.wrapListBeer {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(235, 235, 57);
+  margin-top: 60px;
+
+}
+.wrapCard {
+  margin: auto;
+  height: 430px;
+  margin: 15px;
+  width: 200px;
+  text-align: center;
+  background-color: #fafbff;
+  border-radius: 5px;
+  box-shadow: 0 0 0 1px rgb(20 20 20 / 5%), 0 4px 12px -4px rgb(20 20 20 / 20%);
+}
+.wrapCard:hover {
+  transform: scale(1.05);
+}
