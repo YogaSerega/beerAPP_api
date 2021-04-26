@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beerAPP_GH_PAGES/static/css/main.878b4536.chunk.css",
+    "main.js": "/beerAPP_GH_PAGES/static/js/main.ea8e8e58.chunk.js",
+    "main.js.map": "/beerAPP_GH_PAGES/static/js/main.ea8e8e58.chunk.js.map",
+    "runtime-main.js": "/beerAPP_GH_PAGES/static/js/runtime-main.ab63a6ff.js",
+    "runtime-main.js.map": "/beerAPP_GH_PAGES/static/js/runtime-main.ab63a6ff.js.map",
+    "static/js/2.5335ac28.chunk.js": "/beerAPP_GH_PAGES/static/js/2.5335ac28.chunk.js",
+    "static/js/2.5335ac28.chunk.js.map": "/beerAPP_GH_PAGES/static/js/2.5335ac28.chunk.js.map",
+    "static/js/3.574ec4a6.chunk.js": "/beerAPP_GH_PAGES/static/js/3.574ec4a6.chunk.js",
+    "static/js/3.574ec4a6.chunk.js.map": "/beerAPP_GH_PAGES/static/js/3.574ec4a6.chunk.js.map",
+    "index.html": "/beerAPP_GH_PAGES/index.html",
+    "static/css/main.878b4536.chunk.css.map": "/beerAPP_GH_PAGES/static/css/main.878b4536.chunk.css.map",
+    "static/js/2.5335ac28.chunk.js.LICENSE.txt": "/beerAPP_GH_PAGES/static/js/2.5335ac28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab63a6ff.js",
+    "static/js/2.5335ac28.chunk.js",
+    "static/css/main.878b4536.chunk.css",
+    "static/js/main.ea8e8e58.chunk.js"
+  ]
+}
